@@ -1,3 +1,4 @@
+![kkrp-chat](https://socialify.git.ci/nwvh/kkrp-chat/image?description=1&descriptionEditable=ESX%20RPChat%20-%20KKRP%203.0%20Style&font=Inter&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light)
 # How to use? ❓
 - Clone this repo
 - Add StrayRP-Chat to your resources folder
